@@ -1,0 +1,23 @@
+.nextui-checkbox-group-items {
+  flex-wrap: wrap;
+}
+
+.nextui-checkbox-label {
+  margin-bottom: 8px;
+}
+
+.nextui-checkbox-group-label {
+  color: #000 !important;
+}
+
+.list-w-100 {
+  width: 100% !important;
+}
+
+.StepButton-0-2-4.completed {
+  background-color: #33cc99 !important;
+}
+
+.nextui-input-main-container {
+  margin-right: 12px;
+}

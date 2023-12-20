@@ -1,0 +1,9 @@
+.login-container {
+  background-image: url("/public//assets/bg_image.jpeg");
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 !important;
+  max-width: 100% !important;
+  padding: 24px;
+}
